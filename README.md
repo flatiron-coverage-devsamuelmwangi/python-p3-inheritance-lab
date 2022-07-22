@@ -91,8 +91,8 @@ submit your work when complete.
 5. Individual students should initialize with an attribute, `self.knowledge`,
    that points to an empty list.
 
-6. Expand the `learn()` method in the `Student` class so that in takes in a
-   string and adds that string to the student's `self.knowledge` list.
+6. Define a method, `Student.learn()`, that takes in a string and adds that string to the
+   student's `self.knowledge` list.
 
 ***
 
